@@ -3,7 +3,7 @@ A collections of snippits that I have collected from working with SQL Server, De
 
 ## About
 
-This idea borrowed from [Josh Branchaud].(https://til.hashrocket.com).
+This idea borrowed from [Josh Branchaud](https://til.hashrocket.com).
 
 ## Addtional TIL Collections
 
